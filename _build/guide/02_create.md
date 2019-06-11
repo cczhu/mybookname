@@ -61,3 +61,30 @@ For example, if you have your book's content in a folder structure like this:
 
 ```
 myoldbook/
+├── content
+│   ├── root_test.md
+│   └── tests
+├── _data
+│   └── toc.yml
+├── images
+│   └── tests
+├── mylicense.md
+├── myextrafolder
+│   └── myextrafile.txt
+└── config.yml
+```
+
+You can generate a Jupyter Book from it with the following command:
+
+
+```
+jupyter-book create mybookname --content-folder myoldbook/content \
+                               --toc myoldbook/_data/toc.yml \
+                               --config myoldbook/_config.yml \
+                               --license myoldbook/mylicense.md \
+                               --extra-files myoldbook/myextrafolder
+```
+
+This will create a new Jupyter Book using these files. In this case, you need to ensure
+that the values in `_config.yml` are correct, and that the Table of Contents (`toc.yml`) file
+has the structure that you want.

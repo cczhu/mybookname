@@ -77,3 +77,18 @@ jupyterhub_url                   : ""  # The URL for your JupyterHub.
 
 ## Letting users define their own JupyterHub location
 
+✨**Experimental**✨
+
+If you use interact links with your Jupyter Book, you can also allow users to update
+these links to their own JupyterHub location by using parameters specified in the URL.
+If an interact button is present on a page, append the following to a page's URL in order
+to update where the link points:
+
+```
+mybook.com/mypage?jupyterhub=myhuburl.com
+```
+
+You should see a message displayed next to the interact link that lets the user know
+where the link now points. This can be useful if you'd like to share content but allow
+users to run this content wherever they like.
+
