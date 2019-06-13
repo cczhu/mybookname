@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/3/comparison"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\04/3/Comparison.ipynb
+interact_link: content/04/3/Comparison.ipynb
 kernel_name: Python [Root]
 has_widgets: false
 title: 'Comparisons'

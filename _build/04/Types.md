@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/types"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\04/Types.ipynb
+interact_link: content/04/Types.ipynb
 kernel_name: Python [Root]
 has_widgets: false
 title: 'Data Types'

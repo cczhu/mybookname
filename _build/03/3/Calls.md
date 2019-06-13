@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/3/calls"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\03/3/Calls.ipynb
+interact_link: content/03/3/Calls.ipynb
 kernel_name: Python [Root]
 has_widgets: false
 title: 'Call Expressions'

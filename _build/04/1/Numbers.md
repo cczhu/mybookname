@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/1/numbers"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\04/1/Numbers.ipynb
+interact_link: content/04/1/Numbers.ipynb
 kernel_name: Python [Root]
 has_widgets: false
 title: 'Numbers'

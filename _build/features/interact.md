@@ -1,5 +1,5 @@
 ---
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\features/interact.ipynb
+interact_link: content/features/interact.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Connecting content with JupyterHub and Binder'

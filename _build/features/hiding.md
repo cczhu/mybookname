@@ -1,5 +1,5 @@
 ---
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\features/hiding.ipynb
+interact_link: content/features/hiding.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Hiding code blocks or entire cells'
@@ -73,7 +73,7 @@ ax.scatter(*data, c=data[1], s=100*np.abs(data[0]));
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/Users/czhu5/Documents/Python%20Code/mybookname/_build/images/features/hiding_1_0.png)
+![png](../images/features/hiding_1_0.png)
 
 </div>
 </div>
@@ -147,7 +147,7 @@ The following cell has its inputs removed
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/Users/czhu5/Documents/Python%20Code/mybookname/_build/images/features/hiding_7_0.png)
+![png](../images/features/hiding_7_0.png)
 
 </div>
 </div>

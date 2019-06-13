@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/2/names"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\03/2/Names.ipynb
+interact_link: content/03/2/Names.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Names'

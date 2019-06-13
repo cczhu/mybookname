@@ -1,5 +1,5 @@
 ---
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\features/notebooks.ipynb
+interact_link: content/features/notebooks.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Jupyter notebooks'
@@ -95,7 +95,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/Users/czhu5/Documents/Python%20Code/mybookname/_build/images/features/notebooks_2_0.png)
+![png](../images/features/notebooks_2_0.png)
 
 </div>
 </div>
@@ -144,7 +144,7 @@ ax.set_axis_off()
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/Users/czhu5/Documents/Python%20Code/mybookname/_build/images/features/notebooks_7_0.png)
+![png](../images/features/notebooks_7_0.png)
 
 </div>
 </div>

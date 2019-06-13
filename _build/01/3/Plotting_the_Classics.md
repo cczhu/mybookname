@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/01/3/plotting-the-classics"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\01/3/Plotting_the_Classics.ipynb
+interact_link: content/01/3/Plotting_the_Classics.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Plotting the Classics'

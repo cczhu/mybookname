@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/features/interactive-cells"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\features/interactive_cells.ipynb
+interact_link: content/features/interactive_cells.ipynb
 kernel_name: python3
 has_widgets: true
 title: 'Adding interactivity to your book pages'
@@ -9,8 +9,8 @@ prev_page:
   url: /features/interact
   title: 'Connecting content with JupyterHub and Binder'
 next_page:
-  url: /features/search
-  title: 'Searching your book'
+  url: /features/citations
+  title: 'Citations and bibliographies'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 

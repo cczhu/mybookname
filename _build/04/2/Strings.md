@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/2/strings"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\04/2/Strings.ipynb
+interact_link: content/04/2/Strings.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Strings'

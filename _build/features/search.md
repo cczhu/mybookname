@@ -1,11 +1,11 @@
 ---
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\features/search.ipynb
+interact_link: content/features/search.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Searching your book'
 prev_page:
-  url: /features/interactive_cells
-  title: 'Adding interactivity to your book pages'
+  url: /features/citations
+  title: 'Citations and bibliographies'
 next_page:
   url: /features/limits
   title: 'Feature Limits'

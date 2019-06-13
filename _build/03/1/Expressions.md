@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/1/expressions"
-interact_link: content/C:\Users\czhu5\Documents\Python Code\mybookname\content\03/1/Expressions.ipynb
+interact_link: content/03/1/Expressions.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Expressions'
@@ -67,7 +67,7 @@ The grammar rules of a programming language are rigid. In Python, the `*` symbol
         3 * * 4
             ^
     SyntaxError: invalid syntax
-    
+
 
 
 ```

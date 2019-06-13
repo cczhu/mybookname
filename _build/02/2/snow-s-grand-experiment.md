@@ -20,7 +20,7 @@ River Thames. Its water was relatively clean. But the Southwark and Vauxhall
 contaminated.
 
 The map below shows the areas served by the two companies. Snow honed in on the region where the two service areas overlap.
-![Snow’s Other Map](../../../images/snow_map2.jpg)
+![Snow’s Other Map](../../images/snow_map2.jpg)
 
 Snow noticed that there was no systematic difference between the people who were
 supplied by S&V and those supplied by Lambeth. “Each company supplies both rich
