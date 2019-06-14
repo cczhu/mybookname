@@ -1,4 +1,6 @@
-# Books with Jupyter and Jekyll
+# CHARLES WANTS TO TEST JUPYTER BOOKS
+
+Time to cite a thing ({% cite vazisr18 %})!
 
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
